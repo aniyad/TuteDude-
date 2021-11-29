@@ -75,7 +75,7 @@ header{
     display:center;
     text-align: center;
     background-color: rgb(247, 231, 247);
-    background-size:cover;
+    background-size:contain;
 }
 .middle-part p{
     color:rgb(99, 8, 99)
